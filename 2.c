@@ -4,7 +4,7 @@ int main() {
     double a, b, c;
     int avg;
 
-    printf("D‚«‚È”š‚ğ3‚Â“ü‚ê‚éƒhƒ“!\n");
+    printf("Enter three real numbers:\n");
     scanf("%lf %lf %lf", &a, &b, &c);
     avg = (int)((a + b + c) / 3.0);
 
